@@ -3,7 +3,7 @@
   "crons": [
     {
       "path": "/api/cron",
-      "expression": "*/10 * * * *"
+      "expression": "*/12 * * * *"
     }
   ]
 }
